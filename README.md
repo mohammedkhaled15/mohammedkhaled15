@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Learning NodeJs in future**
 
-- 👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/~01402b578c96d22843](https://www.upwork.com/freelancers/~01402b578c96d22843)
+- 👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/~01402b578c96d22843](https://portfoliokhaled1990.netlify.app/)
 
 - 💬 Ask me about **React.js**
 
